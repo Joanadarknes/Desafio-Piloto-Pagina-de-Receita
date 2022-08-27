@@ -1,4 +1,4 @@
-# Desafio-Piloto-Pagina-de-Receita
+# Desafio-Pagina-de-Receita
 
 # 💻 Sobre o desafio
 
